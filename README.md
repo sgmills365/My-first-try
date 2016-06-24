@@ -20,7 +20,7 @@ db.coll.createIndex( { <field>: < 1 or -1 > } )
 .. _index-type-multikey:
 
 _________________________
-| Simple Git Project | 
+Simple Git Project 
 _________________________
 
 Why? 
