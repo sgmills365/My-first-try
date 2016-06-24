@@ -38,8 +38,7 @@ Finn has lot of family members
   2. His Adoptive Brothers Jerome and Jake 
   3. His Father Martin the Human 
     1. Turned into a comet and has not been seen since. 
-        
-        2.good ridence 
+           2.good ridence 
   4. Susan???
     
      *Origins remain unknown 
