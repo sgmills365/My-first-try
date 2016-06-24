@@ -51,12 +51,12 @@ _______________________________________________________________
 - [ ] Grass Sword 
 
 - [ ] Finn Sword 
-```
+- 
   It is has been confirmed by the producers of the show that Bonnibel 
   and Marceline dated at one point in time :kissing:
   This makes them the first (though be it only implied) gay cartoon couple on Cartoon Network 
     * Followed quickly by the openly gay couple of Ruby and Saphire in Steven Universe 
- ``` 
+  
 
 .. *default-domain::my space*
 .. content: On this page
