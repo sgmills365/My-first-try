@@ -18,3 +18,11 @@ db.coll.createIndex( { <field>: < 1 or -1 > } )
 .. index:: index; multikey
 .. _index-type-multi-key:
 .. _index-type-multikey:
+
+_________________________
+| Simple Git Project | 
+_________________________
+
+Why? 
+  To find gain familiarity with Github and it's uses 
+  
