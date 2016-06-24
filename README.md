@@ -43,7 +43,7 @@ Finn has lot of family members
 ```
 ####Number of Swords Finn has had and their fates : 
 _________________________________
-[] Scarlet 
+- [] Scarlet 
 
 [] Root Sword 
 
