@@ -10,4 +10,6 @@ ______________________
 Making Lines 
 ----------------------
 https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg
+.. code-block:: javascript
 
+   db.coll.createIndex( { <field>: < 1 or -1 > } )
