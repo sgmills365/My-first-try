@@ -9,4 +9,4 @@ What does this do?
 ______________________
 Making Lines 
 ----------------------
-.. include:: /image/https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg
+.. include:: /images/562466745340817408/_nIu8KHX.jpeg
