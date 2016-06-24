@@ -49,7 +49,7 @@ _________________________________
 
 -[X] Grass Sword 
 
--[ ] Finn Sword 
+-[  ] Finn Sword 
 
   
 
