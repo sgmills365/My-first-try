@@ -42,15 +42,15 @@ Finn has lot of family members
   4. Susan???
       * Origins remain unknown 
 
-####Number of Swords Finn has had and their fates : 
-_________________________________
-- [] Scarlet 
+####Number of Swords Finn has had, which one is your favourite?: 
+_______________________________________________________________
+- [ ] Scarlet 
 
-- [] Root Sword 
+- [ ] Root Sword 
 
-- [] Grass Sword 
+- [ ] Grass Sword 
 
-- [] Finn Sword 
+- [ ] Finn Sword 
 
   
 
