@@ -9,13 +9,14 @@ So far I belief it is going well. I'm becoming more and more familiar with the p
 ###~~{{does this do anything?}}~~ no, it _does_ not. 
 But in the words of Jake the Dog 
 >Sucking at something is the first step to take for not sucking at something 
-Somethings to know about Jake the Dog 
 
-'''
+###**Somethings to know about Jake the Dog**
+
+```
 He is the best friend and Aboptive brother of Finn the Human  
 He is one of the two protagonists in Adventure Time 
 He is Part Demon and therefore very stretchy, though he claims he rolled in mud one day and that's how he got his stretchy powers. 
-'''
+```
 
 .. *default-domain::my space*
 .. content: On this page
