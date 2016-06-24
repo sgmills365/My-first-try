@@ -27,3 +27,6 @@ _________________________
 Why? 
   To find gain familiarity with Github and it's uses 
   
+  To create a multikey index, use the
+:method:`db.collection.createIndex()` method
+  
