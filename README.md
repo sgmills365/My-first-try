@@ -17,6 +17,9 @@ He is the best friend and Aboptive brother of Finn the Human
 He is one of the two protagonists in Adventure Time 
 He is Part Demon and therefore very stretchy, though he claims he rolled in mud one day and that's how he got his stretchy powers. 
 ```
+For more information about Jake the Dog and his Show, Adventure Time please click the following link:
+[http://adventuretime.wikia.com/] 
+
 
 .. *default-domain::my space*
 .. content: On this page
