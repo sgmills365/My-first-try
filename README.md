@@ -40,7 +40,6 @@ Finn has lot of family members
     1. Turned into a comet and has not been seen since. 
        * good ridence 
   4. Susan???
-  
       * Origins remain unknown 
 
 ####Number of Swords Finn has had and their fates : 
