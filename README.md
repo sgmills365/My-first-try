@@ -51,7 +51,7 @@ Finn has lot of family members
 | Grass Sword | Ripped off along with his arm |
 | Finn Sword  | Died? Possible                |
 
-which one is your favourite?: 
+which Of Finn's Swords is your favourite?: 
 _______________________________________________________________
 - [ ] Scarlet 
 
@@ -63,13 +63,14 @@ _______________________________________________________________
 
 
 
-
+Relationships
  
   It is has been confirmed by the producers of the show that Bonnibel 
   and Marceline dated at one point in time :kissing:
   This makes them the first (though be it only implied) gay cartoon couple on Cartoon Network 
   
    * Followed quickly by the openly gay couple of Ruby and Saphire in Steven Universe 
+      *for more information on Steven Universe, please consult [Steven Universe Wiki Page] (http://steven-universe.wikia.com/) 
   
 
 .. *default-domain::my space*
