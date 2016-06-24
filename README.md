@@ -23,25 +23,25 @@ For more information about Jake the Dog and his Show, Adventure Time please clic
 Some of the other chacaters from Adventure time that are worth mentioning are:
 ------------------------------------------------------------------------------
 
--  Finn the Human
+- Finn the Human
 
 > Baby is building a Tower into Space...
 
--  Princess (Bonnibel) Bubblegum
+- Princess (Bonnibel) Bubblegum
 
 > Responsbility Demands Sacrafise 
 
--  Marceline Abadeer
+- Marceline Abadeer
 
 > I'm not mean, I'm just a thousand years old and I've lost track of my moral code
 
--  BEMO
+- BEMO
 
 > Who wants to play a video game 
 
--  Ice King 
+- Ice King 
 
-> please forgive me for whatever I do, when I don't remember you 
+> Please forgive me for whatever I do, when I don't remember you 
 
 ####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
 ________________________________________________________________________________________________________________
