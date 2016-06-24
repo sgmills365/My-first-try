@@ -42,7 +42,16 @@ Finn has lot of family members
   4. Susan???
       * Origins remain unknown 
 
-####Number of Swords Finn has had, which one is your favourite?: 
+####Number of Swords Finn has had
+
+|   Sword     |            Fate               |
+|-------------|-------------------------------|
+| Scarlet     |Sucked into another demension  |
+| Root Sword  | Still Available               |
+| Grass Sword | Ripped off along with his arm |
+| Finn Sword  | Died? Possible                |
+
+which one is your favourite?: 
 _______________________________________________________________
 - [ ] Scarlet 
 
@@ -51,7 +60,11 @@ _______________________________________________________________
 - [ ] Grass Sword 
 
 - [ ] Finn Sword 
-- 
+
+
+
+
+ 
   It is has been confirmed by the producers of the show that Bonnibel 
   and Marceline dated at one point in time :kissing:
   This makes them the first (though be it only implied) gay cartoon couple on Cartoon Network 
