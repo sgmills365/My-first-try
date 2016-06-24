@@ -23,11 +23,11 @@ For more information about Jake the Dog and his Show, Adventure Time please clic
 Some of the other chacaters from Adventure time that are worth mentioning are:
 ------------------------------------------------------------------------------
 ```
-- Finn the Human 
-- Princess (Bonnibel) Bubblegum
-- Marceline Abadeer
-- BEMO
-- Ice King
+* Finn the Human 
+* Princess (Bonnibel) Bubblegum
+* Marceline Abadeer
+* BEMO
+* Ice King
 ```
 
 
