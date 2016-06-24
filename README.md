@@ -20,6 +20,17 @@ He is Part Demon and therefore very stretchy, though he claims he rolled in mud 
 For more information about Jake the Dog and his Show, Adventure Time please click the following link:
 [http://adventuretime.wikia.com/] 
 
+Some of the other chacaters from Adventure time that are worth mentioning are:
+------------------------------------------------------------------------------
+```
+-Finn the Human 
+-Princess (Bonnibel) Bubblegum
+-Marceline Abadeer
+-BEMO
+-Ice King
+```
+
+
 
 .. *default-domain::my space*
 .. content: On this page
