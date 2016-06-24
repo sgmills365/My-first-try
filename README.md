@@ -43,7 +43,7 @@ Some of the other chacaters from Adventure time that are worth mentioning are:
 
 > Please forgive me for whatever I do, when I don't remember you... 
 
-    ####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
+####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
 ________________________________________________________________________________________________________________
 
 
