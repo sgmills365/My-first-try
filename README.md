@@ -52,7 +52,7 @@ _______________________________________________________________
 
 - [ ] Finn Sword 
 
-  It is has been confirmed by the producers of the show that Bonnibel and Marceline dated at one point in time ;) 
+  It is has been confirmed by the producers of the show that Bonnibel and Marceline dated at one point in time :;):  
 
 .. *default-domain::my space*
 .. content: On this page
