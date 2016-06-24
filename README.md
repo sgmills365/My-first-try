@@ -32,15 +32,16 @@ Some of the other chacaters from Adventure time that are worth mentioning are:
 ####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
 ________________________________________________________________________________________________________________
 
-```
+
 Finn has lot of family members 
   1. His Adoptive Parents Margret and Joshua the Dog 
   2. His Adoptive Brothers Jerome and Jake 
   3. His Father Martin the Human 
-    i. Turned into a comet and has not been seen since. 
-      ii.good ridence 
-  4. Susan??? 
-```
+    1. Turned into a comet and has not been seen since. 
+      2.good ridence 
+  4. Susan???
+    *Origins remain unknown 
+
 ####Number of Swords Finn has had and their fates : 
 _________________________________
 - [] Scarlet 
