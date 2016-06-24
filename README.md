@@ -24,13 +24,9 @@ Some of the other chacaters from Adventure time that are worth mentioning are:
 ------------------------------------------------------------------------------
 
 -  Finn the Human
-
 -  Princess (Bonnibel) Bubblegum
-
 -  Marceline Abadeer
-
 -  BEMO
-
 -  Ice King
 
 ####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
