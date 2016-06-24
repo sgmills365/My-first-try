@@ -7,6 +7,8 @@ So far I belief it is going well. I'm becoming more and more familiar with the p
 ##What does this do?
 ==================
 ###~~{{does this do anything?}}~~ no, it _does_ not. 
+But in the words of Jake the Dog 
+>Sucking at something is the first step to take for not sucking at something 
 
 .. *default-domain::my space*
 .. content: On this page
