@@ -33,14 +33,19 @@ Some of the other chacaters from Adventure time that are worth mentioning are:
 ________________________________________________________________________________________________________________
 
 ```
-1. Finn has lot of family members 
+Finn has lot of family members 
   1. His Adoptive Parents Margret and Joshua the Dog 
   2. His Adoptive Brothers Jerome and Jake 
   3. His Father Martin the Human 
-    * Turned into a comet and has not been seen since. 
-      *good ridence 
+    i. Turned into a comet and has not been seen since. 
+      ii.good ridence 
   4. Susan??? 
 ```
+####Number of Swords Finn has had and their fates : 
+_________________________________
+            Broken        Still Around          Little Bit of Both      Unknown 
+Scalet      -[ ]            -[] 
+  
 
 .. *default-domain::my space*
 .. content: On this page
