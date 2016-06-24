@@ -43,8 +43,11 @@ Finn has lot of family members
 ```
 ####Number of Swords Finn has had and their fates : 
 _________________________________
-            Broken        Still Around          Little Bit of Both      Unknown 
-Scalet       [ ]             [ ] 
+-[X] Scarlet 
+-[X] Root Sword 
+-[X] Grass Sword 
+-[ ] Finn Sword 
+
   
 
 .. *default-domain::my space*
