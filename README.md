@@ -42,7 +42,7 @@ Finn has lot of family members
         2.good ridence 
   4. Susan???
     
-    *Origins remain unknown 
+     *Origins remain unknown 
 
 ####Number of Swords Finn has had and their fates : 
 _________________________________
