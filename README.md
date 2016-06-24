@@ -6,12 +6,12 @@ So far I belief it is going well. I'm becoming more and more familiar with the p
 ==================
 ##What does this do?
 ==================
-###{{does this do anything?}} no, it does not. 
+###~~{{does this do anything?}}~~ no, it _does_ not. 
 
-.. default-domain::my space
+.. *default-domain::my space*
 .. content: On this page
 ______________________
-####Making Lines 
+####**Making Lines** 
 ----------------------
 
 
