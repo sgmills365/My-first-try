@@ -23,13 +23,23 @@ For more information about Jake the Dog and his Show, Adventure Time please clic
 Some of the other chacaters from Adventure time that are worth mentioning are:
 ------------------------------------------------------------------------------
 ```
-* Finn the Human 
-* Princess (Bonnibel) Bubblegum
-* Marceline Abadeer
-* BEMO
-* Ice King
+- Finn the Human
+- Princess (Bonnibel) Bubblegum
+- Marceline Abadeer
+- BEMO
+- Ice King
 ```
+####Finn the Human is a very Interesting Charater as he is the only human here are some facts to know about him: 
+________________________________________________________________________________________________________________
 
+```
+1. Finn has lot of family members 
+  1. His Adoptive Parents Margret and Joshua the Dog 
+  2. His Adoptive Brothers Jerome and Jake 
+  3. His Father Martin the Human 
+    * Turned into a comet and has not been seen since. 
+      *good ridence 
+  4. Susan??? 
 
 
 .. *default-domain::my space*
