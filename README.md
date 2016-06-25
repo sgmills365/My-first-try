@@ -1,3 +1,32 @@
+.. index:: index; multikey
+.. _index-type-multi-key:
+.. _index-type-multikey:
+
+================
+Multikey Indexes
+================
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: singlecol
+
+To index a field that holds an array value, MongoDB creates an index
+key for each element in the array. These *multikey* indexes support
+efficient queries against array fields. Multikey indexes can be
+constructed over arrays that hold both scalar values (e.g. strings,
+numbers) *and* nested documents.
+
+
+
+
+
+
+
+
 # My-first-try
 my first experimental attempt on this program. 
 So far I belief it is going well. I'm becoming more and more familiar with the program. 
@@ -112,25 +141,4 @@ Why?
   To find gain familiarity with Github and it's uses 
   
 
-.. index:: index; multikey
-.. _index-type-multi-key:
-.. _index-type-multikey:
-
-================
-Multikey Indexes
-================
-
-.. default-domain:: mongodb
-
-.. contents:: On this page
-   :local:
-   :backlinks: none
-   :depth: 1
-   :class: singlecol
-
-To index a field that holds an array value, MongoDB creates an index
-key for each element in the array. These *multikey* indexes support
-efficient queries against array fields. Multikey indexes can be
-constructed over arrays that hold both scalar values (e.g. strings,
-numbers) *and* nested documents.
   
