@@ -11,7 +11,7 @@ So far I belief it is going well. I'm becoming more and more familiar with the p
 But in the words of Jake the Dog 
 >Sucking at something is the first step to take for not sucking at something 
 
-###**Somethings to know about Jake the Dog**
+###*Somethings to know about Jake the Dog*
 
 ```green
 He is the best friend and Aboptive brother of Finn the Human  
